@@ -1,1 +1,3 @@
 Getting Git and GitHub basics
+
+Updating the file to check in github
